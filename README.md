@@ -2,11 +2,11 @@
 [简体中文](README_CN.md) | [繁體中文](README_TW.md)
 Bilibili's Qianxing Tianwai-Lin Mu has numerous code project repositories, often sharing small projects or self-created modules.
 
-
 method of application:
 For language codes, download the compiler of the corresponding language.
 Open the compiler to run the code.Please note that some codes may contain other dependent codes.
 Unless you are a professional developer.Otherwise, please pass Releases Download a compressed file of the whole code.Right?
 
-
-
+Please download my world for the module.And install the corresponding version of the world and JAVA.
+Place the module file in the mods folder.
+Start at the starter.
